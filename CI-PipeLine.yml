@@ -1,6 +1,7 @@
 trigger:
 - main
 
+
 # Stages
 # Stage-1:
   # Task-1: Copy terraform-manifests files to Build Artifact Directory
